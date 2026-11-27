@@ -1,0 +1,12 @@
+chipset_devices.txt
+
+
+AMD USB 3.10 eXtensible Host Controller - USB bus
+
+Standard NVM Express Controller - PCIe/NVMe bus
+
+AMD SMBus - SMBus
+
+AMD High Definition Audio Device - HD Audio bus
+
+Realtek RTL8822CE 802.11ac PCIe Adapter - PCIe network bus

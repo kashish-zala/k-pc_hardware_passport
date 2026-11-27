@@ -1,0 +1,26 @@
+slot_usage_map.txt
+
+RAM Slot 1: used
+Evidence: Verify with Task Manager > Performance > Memory ("Slots used") or Win32_PhysicalMemory.
+
+RAM Slot 2: unknown
+Evidence: Current output does not show slot population.
+
+M.2 Slot 1: used
+Evidence: DiskDrive = WD PC SN560 SDDPNQE-1T00-1006 (NVMe SSD present).
+Source: Get-PnpDevice output.
+
+M.2 Slot 2: unknown
+Evidence: Software output provided does not identify whether a second M.2 slot exists.
+
+SATA Port 1: unknown
+Evidence: No SATA drives detected in provided output.
+
+SATA Port 2: unknown
+Evidence: No software evidence available.
+
+PCIe x16 Slot 1: unknown
+Evidence: HP Pavilion Laptop 15-eh1xxx is a laptop; software output does not enumerate user-accessible PCIe slots.
+
+PCIe x1 Slot 1: unknown
+Evidence: Software output does not identify slot count or occupancy.

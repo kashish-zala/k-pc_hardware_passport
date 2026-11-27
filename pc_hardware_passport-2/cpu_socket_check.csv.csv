@@ -1,0 +1,4 @@
+﻿cpu_model, socket, cores, threads, base_clock, fits_your_board
+AMD Ryzen 5 5500U,soldered,6,12,2.1 GHz,yes
+AMD Ryzen 7 5700U,soldered,8,16,1.8 GHz,no
+AMD Ryzen 5 7600,AM5,6,12,3.8 GHz,no

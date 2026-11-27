@@ -1,0 +1,19 @@
+DAY 2 - MOTHERBOARD CARD
+
+Motherboard Maker:
+HP
+
+Motherboard Model:
+88D0
+
+Form Factor:
+Laptop Motherboard (Mobile Form Factor)
+
+Chipset:
+AMD Laptop Platform
+
+BIOS/UEFI Version:
+F.34
+
+BIOS/UEFI Date:
+30-03-2026 05:30:00
